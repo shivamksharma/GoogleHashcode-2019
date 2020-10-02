@@ -1,9 +1,5 @@
-// Google HashCode-2019 Pizza-Problem Solution 
-
-/* Coded By Shivam Sharma */
-
-//Check_Out MY GITHUB
-//https://github.com/shivamksharma/
+// Google HashCode 2019 Pizza-Problem
+// Programmer - Shivam Sharma
 
 //~/BAU/ACM-ICPC/Teams/A++/BlackBurn95
 
